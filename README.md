@@ -1,4 +1,4 @@
-bom dia
+bom dia:
 
 meu nome é giovana
 
